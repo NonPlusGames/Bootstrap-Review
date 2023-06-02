@@ -14,4 +14,4 @@ This [link](https://getbootstrap.com/docs/5.3/layout/grid/) might be helpful as 
   
 #### Stretch
   
-Include a Carousel in the content area that cycles through 5 images
+Include a Carousel in the content area that cycles through 5 images.
