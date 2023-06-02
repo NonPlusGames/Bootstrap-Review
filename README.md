@@ -11,3 +11,7 @@ This [link](https://getbootstrap.com/docs/5.3/layout/grid/) might be helpful as 
 #### EXAMPLE
 
 ![](https://raw.githubusercontent.com/upperlinecode/GridGames/master/level_four_items.png)
+  
+#### Stretch
+  
+Include a Carousel in the content area that cycles through 5 images
